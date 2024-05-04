@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio_Cadastro_Pilha_Fila_DInamica/1.0.0": {
+        "runtime": {
+          "Exercicio_Cadastro_Pilha_Fila_DInamica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Cadastro_Pilha_Fila_DInamica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
